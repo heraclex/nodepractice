@@ -1,0 +1,10 @@
+{
+  "name": "Chapter2",
+  "version": "0.0.0",
+  "description": "Chapter2",
+  "main": "app.js",
+  "author": {
+    "name": "tle",
+    "email": ""
+  }
+}

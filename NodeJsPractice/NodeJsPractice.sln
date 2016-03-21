@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Chapter1", "Chapter1\Chapter1.njsproj", "{A742B8FC-1ED1-4572-8644-7375F83E62EF}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Chapter2", "Chapter2\Chapter2.njsproj", "{8F0989C5-6B46-414D-A249-99CE944D55C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A742B8FC-1ED1-4572-8644-7375F83E62EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742B8FC-1ED1-4572-8644-7375F83E62EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742B8FC-1ED1-4572-8644-7375F83E62EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742B8FC-1ED1-4572-8644-7375F83E62EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0989C5-6B46-414D-A249-99CE944D55C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0989C5-6B46-414D-A249-99CE944D55C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0989C5-6B46-414D-A249-99CE944D55C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0989C5-6B46-414D-A249-99CE944D55C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
